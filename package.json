@@ -2,8 +2,15 @@
   "name": "saas-starter",
   "version": "0.1.0",
   "description": "SaaS Project Starter",
-  "keywords": ["SaaS", "service", "software"],
+  "keywords": [
+    "SaaS",
+    "service",
+    "software"
+  ],
   "author": "Eray Aydın <erayaydinn@protonmail.com>",
   "license": "MIT",
-  "packageManager": "pnpm@8.15.1"
+  "packageManager": "pnpm@8.15.1",
+  "devDependencies": {
+    "turbo": "^1.13.3"
+  }
 }

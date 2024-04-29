@@ -1,2 +1,5 @@
+### PNPM
+node_modules/
+
 ### Intellij
 .idea/
