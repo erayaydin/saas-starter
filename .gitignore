@@ -1,5 +1,11 @@
 ### PNPM
 node_modules/
 
+### Turbo
+.turbo/
+
+### Next.js
+.next/
+
 ### Intellij
 .idea/
