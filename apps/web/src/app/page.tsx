@@ -1,5 +1,3 @@
 export default function Hello() {
-    return (
-        <p>Hello, SaaS Starter!</p>
-    );
+  return <p>Hello, SaaS Starter!</p>;
 }
