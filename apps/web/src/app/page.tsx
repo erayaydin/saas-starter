@@ -1,3 +1,5 @@
+import { Button } from "@saas/ui/button";
+
 export default function Hello() {
-  return <p>Hello, SaaS Starter!</p>;
+  return <Button>Hello, SaaS Starter!</Button>;
 }
