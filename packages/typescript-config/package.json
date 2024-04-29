@@ -1,0 +1,10 @@
+{
+  "name": "@saas/typescript-config",
+  "version": "0.1.0",
+  "description": "Typescript configuration for saas packages",
+  "author": "Eray Aydın <erayaydinn@protonmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
