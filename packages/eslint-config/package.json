@@ -1,0 +1,18 @@
+{
+  "name": "@saas/eslint-config",
+  "version": "0.1.0",
+  "description": "ESLint configuration for saas packages",
+  "author": "Eray Aydın <erayaydinn@protonmail.com>",
+  "license": "MIT",
+  "files": [
+    "library.js"
+  ],
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.7.1",
+    "@typescript-eslint/parser": "^7.7.1",
+    "eslint": "^8.57.0",
+    "eslint-config-turbo": "^1.13.3",
+    "eslint-plugin-only-warn": "^1.1.0",
+    "typescript": "^5.4.5"
+  }
+}
